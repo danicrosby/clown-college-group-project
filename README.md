@@ -8,62 +8,61 @@ LOOM VIDEO: https://www.loom.com/share/cbf80856bdd14ecd9736703c70ab35bd
 
 
 ![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000560-6742e400-a5b6-11eb-92f5-a8132656d24c.png)
+
 ![Screen Shot 2021-04-25 at 11 09 44 AM](https://user-images.githubusercontent.com/68397076/116000800-4b8c0d80-a5b7-11eb-9c69-b3549d9f9f5a.png)
 
 
-LUCIDCHART WIREFRAME & ERD:
+### LUCIDCHART WIREFRAME & ERD:
 https://lucid.app/lucidchart/66395ef9-9b5c-4b36-9bc7-bf094a80db06/edit?page=0_0#
 
-FIGMA WIREFRAME & ERD:
+### FIGMA WIREFRAME & ERD:
 https://www.figma.com/file/MJSR9cLCT8XTJ2wioCJ54M/Clown-College-Group-Project?node-id=124%3A1
 
-PROJECT BOARD: (https://github.com/nss-evening-cohort-14/clown-college-dashboard-clown-college-dashboard/projects/1)
+### PROJECT BOARD: 
+(https://github.com/nss-evening-cohort-14/clown-college-dashboard-clown-college-dashboard/projects/1)
 
-DB DIAGRAM: https://dbdiagram.io/embed/605a8522ecb54e10c33cef28![Screen Shot 2021-04-25 at 11 09 44 AM]
+### DB DIAGRAM: 
+https://dbdiagram.io/embed/605a8522ecb54e10c33cef28![Screen Shot 2021-04-25 at 11 09 44 AM]
 
 ## Features
-
 - Google Authentication
   - If unauthenticated the application is Read Only
   - If authenticated the application, the user can do full CRUD
 
 #### Students
-
 - View all Students
 - Add a Student
 - Edit a Student
 - Remove a Student
 
 #### Teachers
-
 - View all active Teachers
 - Create a Teacher
 - Edit a Teacher
 - Delete a Teacher
 
 #### Lessons
-
 - View all the Lessons
 - Add a Lesson
 - Edit a Lesson
 - Delete a Lesson
 
 #### Classes
-
 - View all the Classes
 - Add a Class
 - Edit a Class
 - Delete a Class
 
 #### Majors
-
 - View all the Majors
 - Add a Major
 - Edit a Major
 - Delete a Major
+- 
+
+## Stretch Goals
 
 #### Assign to Classes
-
 - assign a Teacher to a Class
 - assign a Student to a Class
 - assign a Lesson to a Class
