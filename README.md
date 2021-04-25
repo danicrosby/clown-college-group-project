@@ -85,7 +85,7 @@ The art of comedy is not lost, especially not here at Clown College University. 
 ## Relevant Links
 
 ## Project Owner
-[Trinity Christian](https://github.com/TrinityChristiana)
+[Trinity Christiana](https://github.com/TrinityChristiana)
 
 ## Team Contributors
 [Ben Jarrett](https://github.com/BenJarrett), 
