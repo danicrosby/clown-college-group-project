@@ -5,8 +5,8 @@ The art of comedy is not lost, especially not here at Clown College University. 
 ## Project Screenshots
 
 ![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000560-6742e400-a5b6-11eb-92f5-a8132656d24c.png)
-![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000662-c99be480-a5b6-11eb-830d-b75ebbc65ac3.png)
-(https://user-images.githubusercontent.com/68397076/116000755-1ed7f600-a5b7-11eb-8e7c-7fe682a10107.png)
+![Screen Shot 2021-04-25 at 11 09 44 AM](https://user-images.githubusercontent.com/68397076/116000800-4b8c0d80-a5b7-11eb-9c69-b3549d9f9f5a.png)
+
 
 
 CHECKOUT THE DEPLOYED SITE! (https://e14-clown-college.netlify.app/)
