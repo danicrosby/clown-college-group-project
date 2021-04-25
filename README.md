@@ -90,9 +90,9 @@ The art of comedy is not lost, especially not here at Clown College University. 
 [Trinity Christian](https://github.com/TrinityChristiana)
 
 ## Team Contributors
-[Ben Jarrett](https://github.com/BenJarrett)
-[Sara Schoonover](https://github.com/SaraSchoonover)
-[Nathan Keith](https://github.com/nashvegasnate)
+[Ben Jarrett](https://github.com/BenJarrett), 
+[Sara Schoonover](https://github.com/SaraSchoonover), 
+[Nathan Keith](https://github.com/nashvegasnate), and
 [Dani Crosby](https://github.com/danicrosby)
 
 
