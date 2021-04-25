@@ -1,11 +1,10 @@
 The art of comedy is not lost, especially not here at Clown College University. Due to declining enrollment numbers, the Dean wants an admin dashboard to keep track of the students, the teachers, the classes, and the lessons.
 
-# Welcome to Clown College University!
+# Welcome to Clown College University! [![Netlify Status](https://api.netlify.com/api/v1/badges/90eb95ed-3471-4a40-8af6-c32ecc37798b/deploy-status)](https://app.netlify.com/sites/e14-clown-college/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/90eb95ed-3471-4a40-8af6-c32ecc37798b/deploy-status)](https://app.netlify.com/sites/e14-clown-college/deploys)
+
 [Deployed Site](https://e14-clown-college.netlify.app/)
 
-### Screenshots
 
 ![Screen Shot 2021-04-25 at 2 17 42 PM](https://user-images.githubusercontent.com/68397076/116006458-01b02100-a5d1-11eb-9db1-d02a10a12c2f.png)
 
