@@ -2,16 +2,14 @@ The art of comedy is not lost, especially not here at Clown College University. 
 
 # Clown College [![Netlify Status](https://api.netlify.com/api/v1/badges/90eb95ed-3471-4a40-8af6-c32ecc37798b/deploy-status)](https://app.netlify.com/sites/e14-clown-college/deploys)
 
-## Project Screenshots
+CHECKOUT THE DEPLOYED SITE! (https://e14-clown-college.netlify.app/)
+
+LOOM VIDEO: https://www.loom.com/share/cbf80856bdd14ecd9736703c70ab35bd
+
 
 ![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000560-6742e400-a5b6-11eb-92f5-a8132656d24c.png)
 ![Screen Shot 2021-04-25 at 11 09 44 AM](https://user-images.githubusercontent.com/68397076/116000800-4b8c0d80-a5b7-11eb-9c69-b3549d9f9f5a.png)
 
-
-
-CHECKOUT THE DEPLOYED SITE! (https://e14-clown-college.netlify.app/)
-
-LOOM VIDEO: https://www.loom.com/share/cbf80856bdd14ecd9736703c70ab35bd
 
 LUCIDCHART WIREFRAME & ERD:
 https://lucid.app/lucidchart/66395ef9-9b5c-4b36-9bc7-bf094a80db06/edit?page=0_0#
@@ -22,27 +20,6 @@ https://www.figma.com/file/MJSR9cLCT8XTJ2wioCJ54M/Clown-College-Group-Project?no
 PROJECT BOARD: (https://github.com/nss-evening-cohort-14/clown-college-dashboard-clown-college-dashboard/projects/1)
 
 DB DIAGRAM: https://dbdiagram.io/embed/605a8522ecb54e10c33cef28![Screen Shot 2021-04-25 at 11 09 44 AM]
-
-
-<img
-  src="documentation/delete-prompt.png"
-  width="500px"
-/>
-
-<img
-  src="documentation/edit-menu.png"
-  width="500px"
-/>
-
-<img
-  src="documentation/no-picture-screen.png"
-  width="500px"
-/>
-
-<img
-  src="documentation/picture-screen.png"
-  width="500px"
-/>
 
 ## Features
 
