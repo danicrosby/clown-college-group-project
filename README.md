@@ -1,7 +1,13 @@
 The art of comedy is not lost, especially not here at Clown College University. Due to declining enrollment numbers, the Dean wants an admin dashboard to keep track of the students, the teachers, the classes, and the lessons.
 
 # Clown College [![Netlify Status](https://api.netlify.com/api/v1/badges/90eb95ed-3471-4a40-8af6-c32ecc37798b/deploy-status)](https://app.netlify.com/sites/e14-clown-college/deploys)
-[View App](https://e14-clown-college.netlify.app/)
+
+## Project Screenshots
+
+![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000560-6742e400-a5b6-11eb-92f5-a8132656d24c.png)
+![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000662-c99be480-a5b6-11eb-830d-b75ebbc65ac3.png)
+(https://user-images.githubusercontent.com/68397076/116000755-1ed7f600-a5b7-11eb-8e7c-7fe682a10107.png)
+
 
 CHECKOUT THE DEPLOYED SITE! (https://e14-clown-college.netlify.app/)
 
@@ -15,12 +21,7 @@ https://www.figma.com/file/MJSR9cLCT8XTJ2wioCJ54M/Clown-College-Group-Project?no
 
 PROJECT BOARD: (https://github.com/nss-evening-cohort-14/clown-college-dashboard-clown-college-dashboard/projects/1)
 
-DB DIAGRAM: https://dbdiagram.io/embed/605a8522ecb54e10c33cef28
-
-## Project Screenshots
-
-![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000560-6742e400-a5b6-11eb-92f5-a8132656d24c.png)
-![Screen Shot 2021-04-25 at 11 06 32 AM](https://user-images.githubusercontent.com/68397076/116000662-c99be480-a5b6-11eb-830d-b75ebbc65ac3.png)
+DB DIAGRAM: https://dbdiagram.io/embed/605a8522ecb54e10c33cef28![Screen Shot 2021-04-25 at 11 09 44 AM]
 
 
 <img
